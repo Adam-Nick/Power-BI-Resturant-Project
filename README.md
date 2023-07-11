@@ -1,2 +1,2 @@
 # Power-BI-Resturant-Project
-Project emcompassing multiple spreadsheets with custom measures and architecture.
+In this project, I was tasked with analyzing the revenue from various locations and identifying the top products.  In this project I created 22 custom Measures including, "Revenue 3 Month Moving Average", "% Revenue from Top 10 Menu Items" and others.  This dashboard was created from 7 different excel spreadsheets and required joining 3 of them to create 1 master spreadsheet for easier manipulation of Customer Orders, for a total of 8 excel files.
